@@ -5,5 +5,3 @@ void main() {
   //Complete CRUD application with API implementation
   runApp(const CRUDApp());
 }
-
-
